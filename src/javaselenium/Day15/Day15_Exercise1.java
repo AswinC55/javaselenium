@@ -91,6 +91,7 @@ public class Day15_Exercise1 {
         StringBuilder sc = new StringBuilder(input);
         sc.reverse();
         System.out.println(sc);
+
         String a=reverseStringsb(input);
         System.out.println(a);
     }
